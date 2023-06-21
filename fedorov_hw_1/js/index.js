@@ -1,3 +1,2 @@
-let enterName = prompt('What is your name?')
-let userName = enterName
+let userName  = prompt('What is your name?')
 alert(`Hello, ${userName}! How are you?`)
